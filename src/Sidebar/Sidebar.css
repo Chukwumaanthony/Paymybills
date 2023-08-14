@@ -1,0 +1,292 @@
+.blue{
+    /* position: absolute; */
+    width: 96px;
+    height: 30px;
+    padding-bottom: 40px;
+    margin-left: 38px;
+    /* margin-bottom: 200px; */
+}
+
+.Links{
+list-style: none;
+gap: 10px;
+padding: 15px;
+padding-inline: 35px;
+display: flex;
+align-items: center;
+font-family: 'Mollen Personal Use';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 13px;
+}
+.Links a{
+    text-decoration: none;
+    color: #000000;
+}
+.Paybills{
+    height: 14px;
+    padding: 20px 40px;
+}
+.Rec{
+    height: 130px;
+    padding: 30px ;
+}
+.Log{
+    padding-block: 50px;
+    padding-inline: 35px;
+    list-style: none;
+    display: flex;
+    gap: 5px;
+   
+
+    font-family: 'Mollen Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.line1{
+width: 70px;
+display: flex;
+gap: 5px;
+height: 17px;
+top: 164px;
+
+font-family: 'Mollen Personal Use';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+}
+.line2{
+/* position: absolute; */
+width: 55px;
+display: flex;
+/* align-items: center; */
+gap: 5px;
+/* height: 17px; */
+/* left: 64px; */
+top: 217px;
+
+font-family: 'Mollen Personal Use';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+}
+.line3{
+/* position: absolute; */
+width: 83px;
+display: flex;
+/* align-items: center; */
+gap: 5px;
+/* height: 17px; */
+/* left: 64px; */
+top: 272px;
+
+font-family: 'Mollen Personal Use';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+}
+.line4{
+/* position: absolute; */
+width: 54px;
+display: flex;
+/* align-items: center; */
+gap: 5px;
+/* height: 17px; */
+/* left: 64px; */
+top: 326px;
+
+font-family: 'Mollen Personal Use';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+}
+.line5{
+/* position: absolute; */
+width: 54px;
+display: flex;
+/* align-items: center; */
+gap: 5px;
+/* height: 17px; */
+/* left: 64px; */
+top: 379px;
+
+font-family: 'Mollen Personal Use';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* mobile */
+@media screen and (max-width: 390px){
+    .blue{
+        /* position: absolute; */
+        width: 20px;
+        display: none;
+        /* height: 10px; */
+        /* padding-bottom: 40px; */
+        /* margin-left: 38px; */
+        /* margin-bottom: 200px; */
+    }
+    
+    .Links{
+    list-style: none;
+    /* gap: 8px; */
+    /* padding: 15px; */
+    /* padding-inline: 35px; */
+    display: flex;
+    align-items: center;
+    font-family: 'Mollen Personal Use';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 10px;
+    line-height: 4px;
+    }
+    .Links a{
+        text-decoration: none;
+        color: #000000;
+    }
+    .Paybills{
+        height: 14px;
+        padding: 4px;
+    }
+    .Rec{
+        height: none;
+        padding: 30px ;
+    }
+    .Log{
+        padding-block: 50px;
+        padding-inline: 35px;
+        list-style: none;
+        display: flex;
+        gap: 5px;
+       
+    
+        font-family: 'Mollen Personal Use';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #000000;
+    }
+    .line1{
+    width: 70px;
+    display: flex;
+    gap: 5px;
+    height: 17px;
+    top: 164px;
+    
+    font-family: 'Mollen Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    color: #000000;
+    }
+    .line2{
+    /* position: absolute; */
+    width: 55px;
+    display: flex;
+    /* align-items: center; */
+    gap: 5px;
+    /* height: 17px; */
+    /* left: 64px; */
+    top: 217px;
+    
+    font-family: 'Mollen Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    color: #000000;
+    }
+    .line3{
+    /* position: absolute; */
+    width: 83px;
+    display: flex;
+    /* align-items: center; */
+    gap: 5px;
+    /* height: 17px; */
+    /* left: 64px; */
+    top: 272px;
+    
+    font-family: 'Mollen Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    color: #000000;
+    }
+    .line4{
+    /* position: absolute; */
+    width: 54px;
+    display: flex;
+    /* align-items: center; */
+    gap: 5px;
+    /* height: 17px; */
+    /* left: 64px; */
+    top: 326px;
+    
+    font-family: 'Mollen Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    color: #000000;
+    }
+    .line5{
+    /* position: absolute; */
+    width: 54px;
+    display: flex;
+    /* align-items: center; */
+    gap: 5px;
+    /* height: 17px; */
+    /* left: 64px; */
+    top: 379px;
+    
+    font-family: 'Mollen Personal Use';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    color: #000000;
+    }
+} 
+/* big screen */
+@media screen and (min-width:40em){
+    
+}

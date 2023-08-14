@@ -1,0 +1,129 @@
+.topright{
+    padding-block: 25px;
+    display: flex;
+    padding-left: 100px;
+    align-items: center;
+    gap: 20px;
+}
+
+.ims{
+    width: 40px;
+}
+.imss{
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+color: #0F227A;
+}
+.spends{
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 14px;
+color: #2C2C4B;
+}
+.spend{
+/* font-style: normal; */
+/* font-weight: 400; */
+font-size: 17px;
+color: #000000;
+}
+.sectw{
+    display: flex;
+    flex-direction: column;
+    padding-left: 25px;
+}
+.Onem{
+    font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 43px;
+color: #3E3D75;
+}
+.month{
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+color: rgba(0, 0, 0, 0.5);
+}
+.piechart{
+    background-color: white;
+    margin: 20px;
+}
+.ButtonR{
+    background: #F4FFF7;
+    border: 1px solid green;
+    color: green;
+    border-radius: 10px;
+    width: 16rem;
+    height: 2.5rem;
+    margin-left: 20px;
+}
+.phone{
+    border-radius: 50%;
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rightair{
+    font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #3E3D75;
+}.rightd{
+    font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+color: rgba(62, 61, 117, 0.8);
+}
+.rightn{
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+color: #2C2C4B;
+display: flex;
+align-items: center;
+gap: 10px;
+}
+.rightdown{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.tooda{
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+color: #263238;
+padding: 13px;
+}
+.today{
+    display: flex;
+    /* align-items: center; */
+    gap: 60px;
+    padding: 10px;
+}
+.seeall{
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+color: #03B66B;
+margin-left: 250px;
+}
+.airtran{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+.icon{
+    display: flex;
+}

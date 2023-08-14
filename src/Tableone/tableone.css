@@ -1,0 +1,85 @@
+.firstrow{
+    display: flex;
+    flex-direction: column;
+    gap: 5px ;
+}
+
+.tabledata{
+    display: flex;
+    gap: 100px;
+    width: 97%;
+    margin-left: 40px;
+    border-bottom: 1px solid #E8EAFD;
+    padding: 20px 0;
+}
+
+.tableroww{
+    display: flex;
+    gap: 30px;
+    width: 15rem;
+    align-items: center;
+}
+.tablerowws{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    width: 5rem;
+}
+.arrow{
+    display: flex;
+}
+.airpur{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #2C2C4B;    
+}
+.Dec{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;
+    color: #7B7B7B;
+}
+.ash{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px; 
+    color: #2C2C4B;
+    display: flex;
+    align-items: center;
+    }
+.succ{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #01CA76
+}
+.succs{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #E2001099;
+}
+.succss{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFD504;
+}
+.NNN{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: right;
+    color: #2C2C4B;
+}
+.displaa{
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+}

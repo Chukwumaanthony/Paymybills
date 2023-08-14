@@ -1,0 +1,52 @@
+.main-transact{
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    gap: 200px;
+    background-color: #fcfcfc;
+}
+.succt{
+    color: #01CA76;
+}
+.transuccess{
+    display: flex;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    gap: 25px;
+    padding-left: 45px;
+    color: #B8B8B8;
+    align-items: center;
+}
+.alltransaction{
+    border-radius: 20px;
+    background-color: #E8EAFD;
+    padding: 10px;
+    color: #0F227A;
+}
+.transtogether{
+    padding: 10px;
+}
+.alsac{
+    font-weight: 300;
+    font-size: 20px;
+    color: #2c2c4b;
+    padding: 30px;
+}
+.toprrith{
+    display: flex;
+    padding-left: 100px;
+    align-items: center;
+    gap: 20px;
+}
+.ims{
+    width: 40px;
+    height: 40px;
+}
+.imss{
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+color: #0F227A;
+}
